@@ -1,4 +1,4 @@
-# EC2 Module for SecureBank Payment Application
+# EC2 Module for SecureBank Payment Applications
 
 # Create EC2 instance
 resource "aws_instance" "app_server" {
